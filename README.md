@@ -1,5 +1,7 @@
 # Backlight
 
+![Backlight catching an injected instruction hidden in a document](assets/demo.svg)
+
 A guard that makes Claude (or another LLM assistant) **inspect documents for
 hidden instructions before acting on them**, and report anything it finds
 instead of silently obeying it.
